@@ -21,7 +21,7 @@ gsetw(obj, "test.0.bruh", true).then(node => {
 
 setTimeout(() => {
 	// Setting the node on the object like this will trigger the waiter.
-	obj.test = [{ bruh:"fhdsk" }];
+	obj.test = [{ bruh: "fhdsk" }];
 }, 1e3);
 ```
 
