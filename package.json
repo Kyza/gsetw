@@ -1,7 +1,7 @@
 {
   "name": "gsetw",
-  "version": "1.0.1",
-  "license": "UNLICENSED",
+  "version": "1.0.2",
+  "license": "MIT",
   "description": "The fastest object node waiter possible.",
   "main": "index.js",
   "module": "index.mjs",
